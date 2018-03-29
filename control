@@ -1,0 +1,9 @@
+Package: com.auxilium.3dhomebutton
+Name: 3DHomeButton
+Depends: mobilesubstrate
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: An awesome MobileSubstrate tweak!
+Maintainer: Auxilium (macs@m4cs.xyz)
+Author: Auxilium (macs@m4cs.xyz)
+Section: Tweaks
